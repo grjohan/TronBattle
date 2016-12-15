@@ -1,0 +1,5 @@
+C:\Users\J\Documents\Visual Studio 2015\Projects\TronBattle\bin\Debug\TronBattle.dll
+C:\Users\J\Documents\Visual Studio 2015\Projects\TronBattle\bin\Debug\TronBattle.pdb
+C:\Users\J\Documents\Visual Studio 2015\Projects\TronBattle\obj\Debug\TronBattle.dll
+C:\Users\J\Documents\Visual Studio 2015\Projects\TronBattle\obj\Debug\TronBattle.pdb
+C:\Users\J\Documents\Visual Studio 2015\Projects\TronBattle\obj\Debug\TronBattle.csprojResolveAssemblyReference.cache

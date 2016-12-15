@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronBattle", "TronBattle.csproj", "{F43AB136-F10E-41F4-9636-B337A9DB45A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerribleAI", "..\TerribleAI\TerribleAI.csproj", "{4C1BE048-96E5-477D-9EDA-0E492EF495F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{FC2617B2-A6EF-4834-97D7-9F3273F21A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43AB136-F10E-41F4-9636-B337A9DB45A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43AB136-F10E-41F4-9636-B337A9DB45A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43AB136-F10E-41F4-9636-B337A9DB45A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43AB136-F10E-41F4-9636-B337A9DB45A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1BE048-96E5-477D-9EDA-0E492EF495F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1BE048-96E5-477D-9EDA-0E492EF495F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1BE048-96E5-477D-9EDA-0E492EF495F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1BE048-96E5-477D-9EDA-0E492EF495F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2617B2-A6EF-4834-97D7-9F3273F21A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2617B2-A6EF-4834-97D7-9F3273F21A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2617B2-A6EF-4834-97D7-9F3273F21A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2617B2-A6EF-4834-97D7-9F3273F21A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

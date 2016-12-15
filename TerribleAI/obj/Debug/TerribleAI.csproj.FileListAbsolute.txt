@@ -1,0 +1,5 @@
+C:\Users\J\Documents\Visual Studio 2015\Projects\TerribleAI\bin\Debug\TerribleAI.dll
+C:\Users\J\Documents\Visual Studio 2015\Projects\TerribleAI\bin\Debug\TerribleAI.pdb
+C:\Users\J\Documents\Visual Studio 2015\Projects\TerribleAI\obj\Debug\TerribleAI.dll
+C:\Users\J\Documents\Visual Studio 2015\Projects\TerribleAI\obj\Debug\TerribleAI.pdb
+C:\Users\J\Documents\Visual Studio 2015\Projects\TerribleAI\obj\Debug\TerribleAI.csprojResolveAssemblyReference.cache
